@@ -21,3 +21,5 @@ Gatsby is the best way to create a blazingly fast static website.
 ```javascript
 let name = "Youngjae Jay Lim"
 ```
+
+![A captured screen of javascript codes](./coding.jpg)
